@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Latest Headlines</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="title_activity_registration">RegistrationActivity</string>
-    <string name="title_activity_mainpage">Mainpage</string>
-    <string name="title_activity_display_news">DisplayNews</string>
-    <string name="title_activity_main">MainActivity</string>
-</resources>
